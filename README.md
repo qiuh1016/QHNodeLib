@@ -3,7 +3,7 @@
 
 Install
 ------------
-npm install qhnodelib
+```npm install qhnodelib```
 
 Usage
 ------------
